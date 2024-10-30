@@ -1,0 +1,6 @@
+2024-10-30 13:46:59.615486+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FINGERPRINTS" not found; SQL statement:
+select path, text, md5 from fingerprints; [42102-232]
+2024-10-30 13:47:03.335822+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]

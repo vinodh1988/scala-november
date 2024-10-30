@@ -1,0 +1,10 @@
+Implement the following algorithms using SCALA language
+
+bubblesort
+insertion sort
+quick sort
+selection sort
+Heap sort
+
+all the methods should sort the original array but not return any 
+array
