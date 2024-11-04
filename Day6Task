@@ -25,3 +25,40 @@ Eventhough we use record variable which is array type we must
 be able to call filterStudents
 
 Test the filterStudents functions by passing records variable to the constructor
+
+Question 5:
+
+Create an application
+that asks you to enter (sno,name,city,department)
+and add the the tuple record in the appropriate deparment 
+and print the organization tree
+Create a tree data structure of your own
+ Note: Do not use map or any other collection
+
+ and for representing (sno,name,city) use tuple 
+ and the application must be interactive
+ need to stop when you say exit
+ 
+Organization
+└── Finance
+    ├── Payments
+    │   ├── (1,Ravi,Chennai)
+    │   ├── (2,Ram,Chennai)
+    │   
+    │  
+    │   
+    │   
+    │   
+    └── Sales
+        ├── Marketing
+        │   ├── (3,"Rohan","Kolkata")
+        │   ├── (4,"RAkesh","Mumbai")
+        │ 
+        ├── (5,Ravi,Mumbai)
+        ├
+        ├── Advertisements
+        │   ├── (6,Ricky,Chennai)
+        │   
+        │ 
+        │  
+        └── SalesManagement
