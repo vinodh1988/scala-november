@@ -12313,3 +12313,48 @@ select build_target_uri from dependency_source where text_document_uri = ?; [421
 2024-11-04 11:59:58.399586+05:30 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CHOSEN_BUILD_TOOL" not found; SQL statement:
 select * from chosen_build_tool LIMIT 1; [42102-232]
+2024-11-04 12:19:37.994195+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:38.378568+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:38.551928+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:38.841984+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:39.315240+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:39.435502+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:39.731796+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:39.857193+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:39.993673+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:40.137098+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:40.272960+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:40.426684+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:41.262464+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 12:19:42.094969+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CHOSEN_BUILD_TOOL" not found; SQL statement:
+select * from chosen_build_tool LIMIT 1; [42102-232]
+2024-11-04 12:19:43.441917+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CHOSEN_BUILD_TOOL" not found; SQL statement:
+select * from chosen_build_tool LIMIT 1; [42102-232]
