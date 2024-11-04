@@ -24,4 +24,4 @@ and Array[Student] should be implicitly converted into List[Student]
 Eventhough we use record variable which is array type we must
 be able to call filterStudents
 
-Test the filterStudents functions by passing records variable
+Test the filterStudents functions by passing records variable to the constructor
