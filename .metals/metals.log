@@ -2039,3 +2039,93 @@ WARNING: Unmatched cancel notification for request id 5366
 2024.11.05 15:16:12 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
 2024.11.05 15:16:12 WARN  there were 2 feature warnings; re-run with -feature for details
 2024.11.05 15:16:12 INFO  time: compiled Scala-November-December_f4dd477a3a in 77ms
+2024.11.05 15:27:21 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:27:21 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:27:21 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.38s
+2024.11.05 15:27:21 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:27:21 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.14s
+2024.11.05 15:27:21 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:27:21 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:27:21 INFO  time: compiled Scala-November-December_f4dd477a3a in 78ms
+2024.11.05 15:28:55 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:28:55 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:28:55 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.45s
+2024.11.05 15:28:55 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:28:55 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.14s
+2024.11.05 15:28:55 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:28:55 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:28:55 INFO  time: compiled Scala-November-December_f4dd477a3a in 82ms
+2024.11.05 15:29:00 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:29:00 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:00 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.37s
+2024.11.05 15:29:00 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:29:00 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.16s
+2024.11.05 15:29:00 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:29:00 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:00 INFO  time: compiled Scala-November-December_f4dd477a3a in 92ms
+2024.11.05 15:29:20 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:29:20 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:20 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.46s
+2024.11.05 15:29:20 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:29:20 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.19s
+2024.11.05 15:29:20 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:29:20 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:20 INFO  time: compiled Scala-November-December_f4dd477a3a in 86ms
+2024.11.05 15:29:22 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:29:22 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:22 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.39s
+2024.11.05 15:29:22 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:29:22 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.14s
+2024.11.05 15:29:22 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:29:22 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:22 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.13s
+2024.11.05 15:29:26 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:29:26 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:26 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.39s
+2024.11.05 15:29:26 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:29:26 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.11s
+2024.11.05 15:29:26 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:29:26 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:26 INFO  time: compiled Scala-November-December_f4dd477a3a in 88ms
+2024.11.05 15:29:51 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:29:51 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:51 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.39s
+2024.11.05 15:29:51 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:29:51 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.12s
+2024.11.05 15:29:51 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:29:51 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:29:51 INFO  time: compiled Scala-November-December_f4dd477a3a in 72ms
+2024.11.05 15:31:48 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:31:48 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:31:48 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.22s
+2024.11.05 15:31:52 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:31:52 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:31:52 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.5s
+2024.11.05 15:31:52 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:31:52 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.16s
+2024.11.05 15:31:52 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:31:52 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:31:52 INFO  time: compiled Scala-November-December_f4dd477a3a in 96ms
+Nov 05, 2024 3:32:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5967
+2024.11.05 15:32:57 INFO  compiling scala-november-december_f4dd477a3a (8 scala sources)
+2024.11.05 15:32:57 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:32:57 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.42s
+2024.11.05 15:32:57 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 15:32:57 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.19s
+2024.11.05 15:32:57 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 15:32:57 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 15:32:57 INFO  time: compiled Scala-November-December_f4dd477a3a in 84ms
+Nov 05, 2024 3:33:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6054
+2024.11.05 16:04:12 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 16:04:12 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 16:04:13 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 16:04:13 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 16:04:13 WARN  Could not find semantic tokens for: file:///Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala
+2024.11.05 16:04:16 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 16:04:16 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 16:04:16 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 16:04:16 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 16:04:17 WARN  no build target for: /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala
+2024.11.05 16:04:17 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/PromiseFuture.scala. Using presentation compiler with project's scala-library version: 3.3.4
