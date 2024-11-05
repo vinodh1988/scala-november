@@ -421,3 +421,378 @@ Caused by: org.h2.mvstore.MVStoreException: The file is locked: /Users/vinodh/Li
 2024.11.05 10:57:45 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
 2024.11.05 10:57:46 WARN  no build target for: /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala
 2024.11.05 10:57:46 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:00:33 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:00:33 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:07:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:09:52 WARN  No build server connected
+2024.11.05 11:09:52 INFO  compiling scala-november-december_f4dd477a3a (14 scala sources)
+2024.11.05 11:09:54 WARN  there were 4 feature warnings; re-run with -feature for details
+2024.11.05 11:09:54 INFO  time: compiled Scala-November-December_f4dd477a3a in 1.27s
+2024.11.05 11:09:54 INFO  compiling scala-november-december_f4dd477a3a (14 scala sources)
+2024.11.05 11:09:54 WARN  there were 4 feature warnings; re-run with -feature for details
+2024.11.05 11:09:54 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.64s
+2024.11.05 11:09:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:09:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:09:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:09:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:09:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:00 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:03 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:11 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:20 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:20 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:20 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:24 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:24 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:24 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:24 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:24 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:30 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:30 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:34 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:34 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:34 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:34 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:34 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:34 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:37 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:38 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:38 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:38 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:38 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:38 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:10:39 WARN  no build target for: /Users/vinodh/Downloads/Ebooks/Scala-November-December/apply.scala
+2024.11.05 11:10:40 INFO  compiling scala-november-december_f4dd477a3a (14 scala sources)
+2024.11.05 11:10:40 WARN  there were 4 feature warnings; re-run with -feature for details
+2024.11.05 11:10:40 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.45s
+2024.11.05 11:16:58 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Implicits/implicit.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:16:58 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Implicits/implicit.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:16:58 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Implicits/implicit.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:16:59 WARN  No build server connected
+2024.11.05 11:16:59 INFO  Cancelling compilation on scala-cli server
+2024.11.05 11:16:59 INFO  compiling scala-november-december_f4dd477a3a (12 scala sources)
+2024.11.05 11:17:00 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Implicits/implicitsArrayToList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:00 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Implicits/implicit.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:01 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:01 WARN  Invalid text document uri received from build server: file:///Users/vinodh/Downloads/Ebooks/Scala-November-December/implicitsArrayToList.scala
+2024.11.05 11:17:01 WARN  Invalid text document uri received from build server: file:///Users/vinodh/Downloads/Ebooks/Scala-November-December/implicitclass.scala
+2024.11.05 11:17:02 INFO  time: compiled Scala-November-December_f4dd477a3a in 3.64s
+2024.11.05 11:17:02 WARN  No build server connected
+2024.11.05 11:17:02 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:17:04 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:04 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.82s
+2024.11.05 11:17:04 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 11:17:04 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.29s
+2024.11.05 11:17:04 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:17:04 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:04 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.12s
+2024.11.05 11:17:04 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:17:05 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:05 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.56s
+2024.11.05 11:17:05 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 11:17:05 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.24s
+2024.11.05 11:17:05 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:17:05 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:05 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.2s
+2024.11.05 11:17:26 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:26 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Databases/database.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:26 WARN  No build server connected
+2024.11.05 11:17:26 INFO  compiling scala-november-december_f4dd477a3a (3 scala sources)
+2024.11.05 11:17:26 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:26 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.69s
+2024.11.05 11:17:26 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 11:17:27 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.26s
+2024.11.05 11:17:27 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:17:27 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:27 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.15s
+2024.11.05 11:17:27 INFO  compiling scala-november-december_f4dd477a3a (3 scala sources)
+2024.11.05 11:17:27 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:27 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.49s
+2024.11.05 11:17:27 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 11:17:28 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.23s
+2024.11.05 11:17:28 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:17:28 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:17:28 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.13s
+2024.11.05 11:17:50 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:50 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:50 WARN  no build target for: /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala
+2024.11.05 11:17:50 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Implicits/implicit.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:50 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:51 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:52 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:51 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:52 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:17:52 WARN  no build target for: /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala
+2024.11.05 11:17:52 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:05 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:05 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:08 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:09 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:09 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:09 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:09 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:09 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:14 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 05, 2024 11:18:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 544
+2024.11.05 11:18:14 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:14 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:18:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:14 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:35 WARN  Could not find semantic tokens for: file:///Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala
+2024.11.05 11:20:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:36 WARN  No build server connected
+2024.11.05 11:20:36 INFO  compiling scala-november-december_f4dd477a3a (5 scala sources)
+2024.11.05 11:20:36 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:20:36 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.62s
+2024.11.05 11:20:36 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 11:20:37 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:36 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.23s
+2024.11.05 11:20:36 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:20:37 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:20:37 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.12s
+2024.11.05 11:20:37 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:37 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:37 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:20:37 INFO  compiling scala-november-december_f4dd477a3a (5 scala sources)
+2024.11.05 11:20:37 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:20:37 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.57s
+2024.11.05 11:20:37 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 11:20:38 WARN  no build target for: /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/EitherType.scala
+2024.11.05 11:20:38 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.32s
+2024.11.05 11:20:38 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:20:38 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:20:38 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.18s
+2024.11.05 11:35:30 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Context.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:35:30 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:35:30 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Context.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:35:31 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Context.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:35:32 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Context.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:40:47 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Context.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:40:47 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:40:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:40:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:40:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:40:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:43:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:38 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:40 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:47 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:49 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:49 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:49 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:49 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 05, 2024 11:45:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 617
+2024.11.05 11:45:49 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/Context.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:49 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:55 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:55 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:55 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:55 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:45:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:02 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:04 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:04 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:08 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:12 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:14 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:14 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:14 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:14 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:16 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:18 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:24 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:27 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:27 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:27 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:29 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:30 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:46:30 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:49:02 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/OptionalsAndEithers/Optional.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 11:58:12 INFO  compiling scala-november-december_f4dd477a3a (6 scala sources)
+2024.11.05 11:58:15 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:58:15 INFO  time: compiled Scala-November-December_f4dd477a3a in 2.71s
+2024.11.05 11:58:15 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 11:58:15 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.52s
+2024.11.05 11:58:15 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:58:15 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:58:15 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.27s
+2024.11.05 11:58:16 INFO  compiling scala-november-december_f4dd477a3a (6 scala sources)
+2024.11.05 11:58:17 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:58:17 INFO  time: compiled Scala-November-December_f4dd477a3a in 1.5s
+2024.11.05 11:58:17 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 11:58:17 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.5s
+2024.11.05 11:58:17 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 11:58:17 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 11:58:17 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.26s
+2024.11.05 12:04:23 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:23 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:23 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:33 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:04:57 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:06 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:08 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:08 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:16 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:19 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:24 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:25 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:27 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:32 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:32 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:32 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:32 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:34 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:34 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:36 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:37 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:37 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:39 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:39 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:40 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:40 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:40 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:40 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:40 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:44 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:44 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:45 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:45 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:46 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:46 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:50 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:50 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:51 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:57 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:57 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:05:57 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:01 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:03 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:05 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/block.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:05 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:05 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:05 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:05 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:05 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:07 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:10 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:11 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:11 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:15 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:20 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:20 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:21 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:33 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:35 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:37 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:39 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:41 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:42 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:44 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:44 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:44 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:44 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:45 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:45 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:47 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:47 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:48 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:50 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:50 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:56 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:56 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:57 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:57 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:57 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:06:59 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:07:00 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:07:00 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:07:06 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:07:06 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:43 INFO  no build target found for /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.05 12:12:44 WARN  no build target for: /Users/vinodh/Downloads/Ebooks/Scala-November-December/book.scala
+2024.11.05 12:12:47 INFO  compiling scala-november-december_f4dd477a3a (7 scala sources)
+2024.11.05 12:12:48 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 12:12:48 INFO  time: compiled Scala-November-December_f4dd477a3a in 1.43s
+2024.11.05 12:12:48 INFO  compiling scala-november-december_f4dd477a3a (6 scala sources)
+2024.11.05 12:12:50 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 12:12:50 INFO  time: compiled Scala-November-December_f4dd477a3a in 1.86s
+2024.11.05 12:12:50 INFO  compiling scala-november-december_f4dd477a3a (1 scala source)
+2024.11.05 12:12:50 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.49s
+2024.11.05 12:12:50 INFO  compiling scala-november-december_f4dd477a3a (2 scala sources)
+2024.11.05 12:12:50 WARN  there were 2 feature warnings; re-run with -feature for details
+2024.11.05 12:12:50 INFO  time: compiled Scala-November-December_f4dd477a3a in 0.23s
