@@ -14167,3 +14167,12 @@ select build_target_uri from dependency_source where text_document_uri = ?; [421
 2024-11-04 14:47:42.993045+05:30 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
 select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 14:48:15.222499+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 16:59:11.732147+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
+2024-11-04 16:59:12.126214+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPENDENCY_SOURCE" not found; SQL statement:
+select build_target_uri from dependency_source where text_document_uri = ?; [42102-232]
