@@ -1,0 +1,37 @@
+trait Pizza
+{
+    def prepare: Unit
+}
+trait Saucing extends Pizza {
+    abstract override def prepare: Unit = {
+        super.prepare
+        println("Apply As much Sauce as you can")
+    }
+}
+
+trait MushroomTopping extends Saucing {
+    abstract override def prepare:Unit = {
+        super.prepare
+        println("Applying Musshroom topping")
+    }
+}
+
+
+trait ChickenTopping extends Saucing {
+    abstract override def prepare:Unit = {
+        super.prepare
+        println("Applying Chicken topping")
+    }
+}
+
+class PizzaMaking extends Pizza{
+      def prepare:Unit ={
+          println("Pizza Preperation Started")
+      }
+}
+
+//val obj:PizzaMaking =new PizzaMaking 
+val obj:PizzaMaking = new PizzaMaking with MushroomTopping 
+val obj1:PizzaMaking = new PizzaMaking with ChickenTopping 
+obj.prepare
+obj1.prepare
