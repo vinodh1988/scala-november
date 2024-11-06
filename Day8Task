@@ -113,3 +113,22 @@ Iterate over the array of candidate tuples (candidateData) and use insertMethod 
 Confirm that the implicit conversion works correctly by calling insertMethod on each tuple without manually converting it to Candidate.
 	7. Verification:
 After insertion, verify that all 50 records have been inserted into the database by querying the candidates table.
+
+Question 4:
+
+Create a Topic with 3 Partitions and 
+Replication Factor 2
+
+Create multiple producers using CLI
+
+Create Two Consumer groups
+   1. multiple consumers in the group
+   2. only one consumer in the group
+
+Outcomes:
+    - Check how the consumers consume it
+    - How partitions are alloted to consumers
+    - How re allocation happens if a new consumer
+    is added
+    - How reallocation happens if a consumer is 
+    Removed
