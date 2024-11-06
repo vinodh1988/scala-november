@@ -1,7 +1,7 @@
 Question1:
     Implement Muliple inhertance with traits
    
-Trait GetStarted --> has implemented method prepare
+Trait GetStarted --> has implemented method prepare(also check if it is abstract)
 Trait Cook extends GetStarted --> has implemented method prepare (super.prepare call must be there)
 Trait Seasoning ---> has implemented method applySeasoning
 Class Food extends Cook with Seasoning --> Has implemented method prepareFood
