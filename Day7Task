@@ -1,5 +1,16 @@
 Question 1:
 
+Create a Class JobRunner that takes jobname,time_in_seconds as constructor
+parameter
+
+it should also recieve a block 
+
+in the companion object  process the input parameters and
+the block
+
+the block should execute after time_in_Seconds seconds
+
+
 Question 2:
 Create A function that returns a Future[String]
 

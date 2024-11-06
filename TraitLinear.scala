@@ -1,3 +1,6 @@
+import scala.concurrent.{Await, Future}
+
+
 trait First {
     def show = println("First one")
 }

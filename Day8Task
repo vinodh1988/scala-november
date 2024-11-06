@@ -1,0 +1,35 @@
+Question1:
+    Implement Muliple inhertance with traits
+   
+Trait GetStarted --> has implemented method prepare
+Trait Cook extends GetStarted --> has implemented method prepare (super.prepare call must be there)
+Trait Seasoning ---> has implemented method applySeasoning
+Class Food extends Cook with Seasoning --> Has implemented method prepareFood
+          that calls prepare and Seasoning
+
+          the order of execution must be
+
+          GetStarted prepare
+          Cook prepare
+          Seasoning applySeasoning
+
+Check whether there is need of abstract override and comment why in the submisstion
+
+
+Question 2
+----------
+
+trait Task --->  doTask (implemented method)
+trait Cook  extends Task --> doTask (override)
+trait Garnish extends Cook --> doTask (overide)
+trait Pack extends Garnish --> doTask (overide)
+class Activity extends Task---> doActivity ---> Call for doTask
+
+
+create object in main method 
+
+val:Task = new Activity with Cook with Garnish with Pack
+
+observe the behavior
+
+observe the behavior by changing the order of inheritance
