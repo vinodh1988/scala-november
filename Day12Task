@@ -1,0 +1,12 @@
+Convert your PlayJobs
+and Akka Jobs into containers
+
+Ensure you handle the configuration
+with environment variable including
+database configuration
+
+ensure the whole deployment works on
+the containers
+
+including kafka cluster on the public network
+
