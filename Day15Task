@@ -50,11 +50,12 @@ Task:
 
 Create an RDD of integers from 1 to 10,000.
 Perform a series of transformations:
-filter: Keep only even numbers.
-map: Multiply each number by 10.
-flatMap: Generate tuples (x, x+1) for each number.
-reduceByKey: Reduce by summing keys.
-Perform an action: Collect the results.
+
+Filter: Keep only even numbers.
+Map: Multiply each number by 10.
+Map: Generate a tuple where the first element is the remainder when dividing the number by 100 (key), and the second is the number itself (value).
+ReduceByKey: Group by the remainder (key) and compute the sum of the values.
+Finally, perform an action to collect the results and display them.
 Expected Analysis:
 
 Analyze the DAG generated for the job and how Spark breaks it into stages.
