@@ -27,6 +27,7 @@ Steps:
 
 Ingestion: Load the ratings.csv file as a DataFrame from GCP Cloud Storage.
 
+
 Transformation:
 
 Use a DataFrame to filter out invalid or incomplete records.
@@ -38,6 +39,12 @@ Write each user's data to a separate folder in HDFS using the saveAsTextFile met
 Verification:
 
 Validate that the HDFS structure follows the format /user-data/{userId}/ratings.csv.
+
+Observation:
+-------------
+   Try to solve the problem only by using DataFrame and partitionBy Function
+   just perform write operation check how the folder structure is created
+
 Case Study 3: Handling Incomplete Metadata
 Objective: Enrich incomplete movie metadata using additional JSON files.
 
