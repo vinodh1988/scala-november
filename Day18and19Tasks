@@ -1,0 +1,71 @@
+1. Broadcasting
+Question:
+You are working on a Spark application that needs to join a small dataset (user details) with a large dataset (transaction logs). The user details dataset fits in memory. How can you use broadcasting in Spark Scala to optimize this join operation? Write a code snippet to demonstrate this.
+
+Scenario:
+
+Dataset 1 (User Details): Contains user ID and name. Small enough to fit in memory.
+Dataset 2 (Transaction Logs): Large dataset with user ID and transaction details.
+Instructions:
+
+Load both datasets as DataFrames.
+Use broadcasting to join the datasets efficiently.
+Explain why broadcasting is beneficial in this scenario.
+2. Caching
+Question:
+You have a Spark job that involves processing a DataFrame multiple times in different stages. Describe how caching can improve performance in this scenario. Write a code snippet to demonstrate caching a DataFrame.
+
+Scenario:
+
+A DataFrame representing sales data is used multiple times in transformations.
+The job becomes slower as the DataFrame is recomputed repeatedly.
+Instructions:
+
+Load a sample dataset as a DataFrame.
+Apply caching to improve the performance.
+Measure and compare the execution time with and without caching.
+3. Streaming (Kafka Source)
+Question:
+Write a Spark Structured Streaming application in Scala that consumes messages from a Kafka topic, processes the messages to extract specific fields, and writes the output to the console.
+
+Scenario:
+
+Kafka Topic: transactions
+Message Format: JSON with fields transactionId, userId, and amount.
+Required Processing: Extract transactionId and amount fields and calculate the total amount in a 10-second window.
+Instructions:
+
+Set up the Kafka source in the Spark application.
+Perform the necessary transformations on the streaming data.
+Use windowing to calculate the total amount.
+Output the results to the console.
+4. GCS Integration
+Question:
+You are tasked with writing a Spark Scala job that reads a Parquet file from Google Cloud Storage (GCS), processes it, and writes the result back to GCS. Write a code snippet for this task.
+
+Scenario:
+
+Input File: gs://bucket-name/input/data.parquet
+Processing: Filter rows where the column status = "completed".
+Output Path: gs://bucket-name/output/processed_data.parquet
+Instructions:
+
+Set up the GCS credentials in your Spark application.
+Read the Parquet file from GCS.
+Apply the filter transformation.
+Write the processed data back to GCS in Parquet format.
+5. Combining Broadcasting and Streaming with GCS
+Question:
+Create a Spark Structured Streaming application that consumes data from a Kafka topic, performs a lookup using a broadcast variable (from GCS), and writes the enriched data back to GCS.
+
+Scenario:
+
+Kafka Topic: orders
+Broadcast Dataset: A CSV file in GCS (gs://bucket-name/config/user_details.csv) containing user details.
+Task: Enrich the streaming data from Kafka with user details from the broadcast variable and write the enriched data back to GCS in JSON format.
+Output Path: gs://bucket-name/output/enriched_orders/
+Instructions:
+
+Broadcast the user details dataset after loading it from GCS.
+Join the streaming Kafka data with the broadcast dataset.
+Write the enriched streaming data back to GCS.
