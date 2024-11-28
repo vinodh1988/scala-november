@@ -1,0 +1,35 @@
+
+Here’s how you can make your GCS bucket (scalabucker53) in project chrome-insight-442717-h3 available for a remote Spark job using Scala:
+
+1. Set Up Your Environment
+Ensure the following prerequisites are met:
+
+GCP SDK Installed: Install the Google Cloud SDK if not already installed.
+
+bash
+Copy code
+curl https://sdk.cloud.google.com | bash
+//gcloud auth login
+//gcloud config set project chrome-insight-442717-h3
+Service Account Key: Create a service account key file for authentication:
+
+bash
+Copy code
+gcloud iam service-accounts create spark-gcs-access --display-name "Spark GCS Access"
+gcloud projects add-iam-policy-binding chrome-insight-442717-h3 \
+    --member="serviceAccount:spark-gcs-access@chrome-insight-442717-h3.iam.gserviceaccount.com" \
+    --role="roles/storage.objectAdmin"
+gcloud iam service-accounts keys create ~/spark-gcs-key.json \
+    --iam-account=spark-gcs-access@chrome-insight-442717-h3.iam.gserviceaccount.com
+2. Enable Required APIs
+Enable the Cloud Storage API for your project:
+
+bash
+Copy code
+gcloud services enable storage.googleapis.com
+3. Prepare Your GCS Bucket
+Create and validate your bucket (scalabucker53) in GCP if not already done:
+
+bash
+Copy code
+gsutil mb -p chrome-insight-442717-h3 -c STANDARD -l us-central1 gs://scalabucker53/
